@@ -1,0 +1,14 @@
+{
+ "configurations": [
+  {
+   "type": "java",
+   "name": "Spring Boot-UnifucampApplication<unifucamp>",
+   "request": "launch",
+   "cwd": "${workspaceFolder}",
+   "mainClass": "com.unifucamp.unifucamp.UnifucampApplication",
+   "projectName": "unifucamp",
+   "args": "",
+   "envFile": "${workspaceFolder}/.env"
+  }
+ ]
+}
